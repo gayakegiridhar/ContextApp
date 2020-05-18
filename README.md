@@ -1,2 +1,0 @@
-# ContextApp
-Created with CodeSandbox
